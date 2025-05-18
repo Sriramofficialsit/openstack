@@ -1,6 +1,8 @@
 Steps to install openstack on Ubuntu 18.04 in Virtual box
 =========================================================
 https://github.com/openstack/devstack
+
+cat > local.conf <<EOF
 1)First install virtual box
 https://www.virtualbox.org/wiki/Downl...
 
