@@ -64,3 +64,7 @@ FORCE=yes ./stack.sh
 
 After succesful installation of Openstack access the Horizon dashboard with below URL:
 http://10.0.2.15/dashboard
+
+
+
+https://chatgpt.com/share/682a0afb-07c4-8013-8ad8-98da9ca2fdd3
